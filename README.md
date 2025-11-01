@@ -6,7 +6,7 @@
 
 ### 下载
 GitHub Releases 
-[https://github.com/kevin970712/Gugugaga/releases](https://github.com/stand404/Sounder/releases)
+[https://github.com/kevin970712/Gugugaga/releases](https://github.com/kevin970712/Gugugaga/releases)
 
 ---
 
