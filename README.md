@@ -8,6 +8,8 @@
 GitHub Releases 
 [https://github.com/kevin970712/Gugugaga/releases](https://github.com/stand404/Sounder/releases)
 
+---
+
 ### 開源協議
 MIT License  
 Copyright © 2025 Stand
